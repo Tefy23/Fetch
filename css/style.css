@@ -1,0 +1,11 @@
+container{
+    background-color: bisque;
+    color: brown;
+}
+table, thead{
+    background-color: aqua;
+    color: azure;
+}
+body{
+    background-color: bisque;
+}
